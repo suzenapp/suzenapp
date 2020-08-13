@@ -1,4 +1,6 @@
 theme: jekyll-theme-architect
+title: Suzen App
+description: Apps for everyone
 plugins:
   - jekyll-relative-links
 relative_links:
