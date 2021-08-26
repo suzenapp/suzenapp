@@ -1,3 +1,3 @@
 # SuzenApp
 
-Open Source apps for everyone
+Open Source apps for everyone & anyone
